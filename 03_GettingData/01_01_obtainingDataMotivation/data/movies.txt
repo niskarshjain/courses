@@ -1,5 +1,5 @@
-	score	rating	genre	box office	running time
-2 Fast 2 Furious	48.9	PG-13	action/adventure	127.146	107
+score	rating	genre	box office	running time
+2 Fast 2 Furious48.9	PG-13	action/adventure	127.146	107
 28 Days Later	78.2	R	horror	45.065	113
 A Guy Thing	39.5	PG-13	rom comedy	15.545	101
 A Man Apart	42.9	R	action/adventure	26.248	110
